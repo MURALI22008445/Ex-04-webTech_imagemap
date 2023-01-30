@@ -4,11 +4,10 @@ To develop a website to display details about the places around my house.
 
 # Design Steps:
 ## Step 1
+First Create the Folders and then input the code to create file.
 
 ## Step 2
-
-## Step 3
-
+Take screenshot for Google Map your location and decide minimum 5 places and create static file and create the website file.
 
 # Code:
 ```
@@ -156,6 +155,13 @@ Most importantly, libraries are a great platform for making progress. When we ge
 
 
 # Output:
+![img](p1.png)
+![img](p2.png)
+![img](p3.png)
+![img](p4.png)
+![img](p5.png)
+![img](p6.png)
 
 # Result:
+Thus the code executed successfully.
 
